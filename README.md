@@ -71,5 +71,3 @@ g++ main.cpp -o tictactoe
 🎓 BS Software Engineering Student
 💬 "Learning C++ by building real-world OOP projects"
 
-sab polish kar deta hoon 👍
-
